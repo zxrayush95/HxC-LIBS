@@ -1,4 +1,4 @@
 {
-  "version": "0.0",
+  "version": "0.1",
   "libLink": "https://github.com/ZxRAYUSH95/HxC-LIBS/raw/refs/heads/main/TEST/libpubgm.so"
 }
